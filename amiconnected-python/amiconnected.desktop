@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Am I Connected
+Exec=amiconnected
+Terminal=false
+Icon=${SNAP}/meta/gui/amiconnected.png
